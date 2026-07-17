@@ -136,6 +136,7 @@ An audio signaling component used to generate distinct beep sounds, alarms, or c
 </p>
 
 A standard direct-current motor that translates electrical power into continuous rotational movement. With a fan included.
+
 ---
 
 ### LCD (1602 I2C Screen)
