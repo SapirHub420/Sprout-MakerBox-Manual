@@ -36,7 +36,7 @@ This section covers the software implementation:
 ### 7. Simulation / Actual Results
 * **What it is:** Expected behaviors, testing benchmarks, and observations from running the project live. It helps you verify if your hardware and code are talking to each other correctly.
 
-### 8. Conclusion (Optional)
+### 8. Conclusion
 * **What it is:** A quick summary of findings, key takeaways, and recommendations or challenges to expand the project further.
 
 ---
