@@ -130,11 +130,12 @@ An audio signaling component used to generate distinct beep sounds, alarms, or c
 
 ---
 
-### DC Motor
-*(Note: Refer to your kit accessories for the DC motor module hardware).*
+### DC Motor with Fan
+<p align="center">
+  <img src="../images/dc-motor-with-fan.jpeg" alt="DC Motor" width="250">
+</p>
 
-A standard direct-current motor that translates electrical power into continuous high-speed rotational movement.
-
+A standard direct-current motor that translates electrical power into continuous rotational movement. With a fan included.
 ---
 
 ### LCD (1602 I2C Screen)
