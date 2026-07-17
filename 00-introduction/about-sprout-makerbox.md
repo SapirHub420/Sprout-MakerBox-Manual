@@ -1,7 +1,7 @@
 ## About SprouT Maker Box
 
 <p align="center">
-  <img src="images/SproutMakerBox.png" alt="SproutMakerBox" width="400">
+  <img src="images/SproutMakerBox.jpg" alt="SproutMakerBox" width="400">
 </p>
 
 Welcome to the official SprouT Maker Box wiki! This section provides a comprehensive overview of the SprouT Maker Box, its purpose, target audience, and key specifications.
