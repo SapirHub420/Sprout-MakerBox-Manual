@@ -19,7 +19,9 @@ The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328
 By the end of this guide, readers will be able to:
 
 1.Install PictoBlox
+
 2.Connect the microcontroller to a computer with a USB cable
+
 3.Build a simple block code that turns on the onboard LED
 
 ---
