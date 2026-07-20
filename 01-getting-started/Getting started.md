@@ -4,7 +4,7 @@
   <img src="../images/Nano.png" width="300">
 </p>
 
-## 1. Introduction
+## Introduction
 
 The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328P, CH340 USB chip). It has a small onboard LED built right onto the board, connected to digital pin 13. This is the easiest way to check that the board works and that PictoBlox can talk to it.
 
@@ -14,7 +14,7 @@ The Sprout Maker Box's controller is an Arduino Nano-compatible board (ATmega328
 
 ---
 
-## 2. Objectives
+## Objectives
 
 By the end of this guide, readers will be able to:
 
@@ -26,7 +26,7 @@ By the end of this guide, readers will be able to:
 
 ---
 
-## 3. Platform Choices
+## Platform Choices
 
 This board is an Arduino Nano-compatible controller, so this guide uses the Arduino platform in PictoBlox.
 
@@ -38,7 +38,7 @@ This board is an Arduino Nano-compatible controller, so this guide uses the Ardu
 
 ---
 
-## 4. Setup - Wiring Diagram and Step by Step
+## Setup
 
 ### What you need
 
@@ -46,9 +46,9 @@ This board is an Arduino Nano-compatible controller, so this guide uses the Ardu
 - USB cable
 - Computer
 
-### Step-by-step setup
+### Step-by-step guide
 
-1. Install PictoBlox: go to thestempedia.com/pictoblox-desktop and download the version for your computer (Windows/macOS), then install it.
+1. Install PictoBlox: go to [thestempedia.com/pictoblox-desktop](https://thestempedia.com/product/pictoblox/download-pictoblox/) and download the version for your computer (Windows/macOS), then install it.
 2. Connect the microcontroller: plug the USB cable into the Arduino Nano board and the other end into your computer.
 
 <p align="center">
@@ -118,7 +118,7 @@ It should look like this:
 - It repeats again and again
 ---
 
-## 6. Results
+## Results
 
 Expected outcome:
 
@@ -133,7 +133,7 @@ Troubleshooting:
 Board not showing in PictoBlox → check the USB cable is connected and try a different COM port.
 LED doesn't turn on → make sure the block ran without errors and pin 13 was used.
 
-## 7. Conclusion
+## Conclusion
 
 You have now learned the basics of using an Arduino Nano-compatible microcontroller. You know what it is, how it can be connected, and how simple programs can make it do useful things.
 
