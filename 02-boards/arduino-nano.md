@@ -1,6 +1,8 @@
 # 🧠 SprouT Base Board for Arduino Nano v3
 
-<img src="../images/PNG - TOP - SprouT - SENANG - Base Board for Arduino Nano - Nano on Top.png" width="300">
+<p align="center">
+  <img src="../images/PNG - TOP - SprouT - SENANG - Base Board for Arduino Nano - Nano on Top.png" width="300">
+</p>
 
 The Arduino Nano v3 is a compact, breadboard-friendly, and highly versatile microcontroller board based on the ATmega328P chip. When paired with the **SprouT Base Board for Arduino Nano**, it transforms from a complex mess of loose wires into a safe, clean, and modular plug-and-play electronics experience for makers.
 
