@@ -61,14 +61,28 @@ This board is an Arduino Nano-compatible controller, so this guide uses the Ardu
   <img src="../images/pointing.png" width="300">
 </p>
 
-4. Select the COM port for your board and click Connect.
+4. Select "ATmega328".
 
 <p align="center">
-  <img src="../images/NIGGA.png" width="300">
+  <img src="../images/atmega.png" width="300">
 </p>
+
+5. Select the COM port for your board and click Connect.
 
 <p align="center">
   <img src="../images/com.png" width="300">
+</p>
+
+6. This message will appear when the board is connected.
+
+<p align="center">
+  <img src="../images/connected.png" width="300">
+</p>
+
+7. On the top-right corner, click "Upload".
+
+<p align="center">
+  <img src="../images/upload.png" width="300">
 </p>
 
 ## 5. Coding - PictoBlox
@@ -77,9 +91,25 @@ PictoBlox is a block-based coding platform that is easy for beginners to underst
 
 Steps to build the block code:
 
-1. Go to the Blocks workspace.
-2. From the Pins category, drag out a "digital write pin (13) value (HIGH)" block into the workspace.
-3. Click the block (or the green flag) to run it and upload it to the board.
+1. Start the script: Drag a green "when Arduino Nano starts up" block into the workspace.
+
+2. Add a loop: Snap a gold forever loop underneath it.
+
+3. Turn it ON: Inside the loop, snap a blue digital write pin (13) value (HIGH) block, followed by a gold wait (1) seconds block.
+
+4. Turn it OFF: Right below that, snap another blue digital write pin (13) value (LOW) block, followed by another gold wait (1) seconds block.
+
+It should look like this:
+
+<p align="center">
+  <img src="../images/code.png" width="300">
+</p>
+
+5. Upload to Arduino: Click the "Upload Code" on the top-right corner to upload and start the blinking.
+
+<p align="center">
+  <img src="../images/uploadcode.png" width="300">
+</p
 
 ### What this program does
 - The LED turns on
@@ -88,30 +118,23 @@ Steps to build the block code:
 - It repeats again and again
 ---
 
-## 6. Simulation
-
-Simulation means testing your project on the screen before using real hardware.
-
-## 7. Results
+## 6. Results
 
 Expected outcome:
 
-The onboard LED next to pin 13 on the board turns on and stays on.
-[ Insert photo of the onboard LED lit up on the real board ]
+The onboard LED next to pin 13 on the board turns on and off every 1 second.
+
+<p align="center">
+  <img src="../images/results.gif" alt="LED blinking example" width="300">
+</p>
 
 Troubleshooting:
 
 Board not showing in PictoBlox → check the USB cable is connected and try a different COM port.
 LED doesn't turn on → make sure the block ran without errors and pin 13 was used.
 
-## 8. Conclusion
+## 7. Conclusion
 
 You have now learned the basics of using an Arduino Nano-compatible microcontroller. You know what it is, how it can be connected, and how simple programs can make it do useful things.
-
-The most important lessons are:
-- start small
-- connect wires carefully
-- test your code step by step
-- have fun while learning
 
 With practice, you can build lights, sensors, robots, and many more exciting projects.
