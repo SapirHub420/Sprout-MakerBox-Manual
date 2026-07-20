@@ -85,7 +85,7 @@ This board is an Arduino Nano-compatible controller, so this guide uses the Ardu
   <img src="../images/upload.png" width="300">
 </p>
 
-## 5. Coding - PictoBlox
+## Coding - PictoBlox
 
 PictoBlox is a block-based coding platform that is easy for beginners to understand.
 
