@@ -95,9 +95,9 @@ Steps to build the block code:
 
 2. Add a loop: Snap a gold forever loop underneath it.
 
-3. Turn it ON: Inside the loop, snap a blue digital write pin (13) value (HIGH) block, followed by a gold wait (1) seconds block.
+3. Turn it ON: Inside the loop, snap a blue "digital write pin (13) value (HIGH)" block, followed by a gold "wait (1) seconds" block.
 
-4. Turn it OFF: Right below that, snap another blue digital write pin (13) value (LOW) block, followed by another gold wait (1) seconds block.
+4. Turn it OFF: Right below that, snap another blue "digital write pin (13) value (LOW)" block, followed by another gold "wait (1) seconds" block.
 
 It should look like this:
 
@@ -116,6 +116,7 @@ It should look like this:
 - It waits for one second
 - It turns off
 - It repeats again and again
+
 ---
 
 ## Results
