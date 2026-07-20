@@ -32,7 +32,7 @@ Allows young makers to easily add physical movement to their micro:bit projects 
 * **Direct Servo Driving:** Provides dedicated power-ground-signal rows that supply standard servo motor cables without messy adaptations.
 * **Independent Power Traces:** Directs current properly so the micro:bit's delicate wireless chip won't reset when the motor pulls a high workload.
 
-### 🔋 3. Desktop and Mobile Power Inlets (7-12V DC)
+### 🔋 3. Desktop and Mobile Power Inlets
 Move past the limitations of AAA battery packs! The SprouT board lets you take your micro:bit builds into industrial or autonomous configurations.
 * **7-12V DC Jack:** Accepts rugged barrel-jack power connectors from standard heavy battery packs or wall blocks.
 * **Onboard Power Shielding:** Smooths incoming electrical current to provide clean, filtered electricity to both the micro:bit and all connected sensors.

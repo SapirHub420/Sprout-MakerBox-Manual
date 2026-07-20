@@ -32,7 +32,7 @@ Unlike smaller microcontrollers, the ION32 Base Board features heavy-duty traces
 * **Servo & Actuator Rails:** Direct 3-pin configuration lines allow multiple heavy servos to drive smoothly without causing power drops to the central processor.
 * **Robust Circuit Isolation:** Safeguards the main chip against reverse electromotive force (EMF) spikes common in motor-heavy robotics.
 
-### 🔋 3. Versatile External Power Supply (7-12V DC Input)
+### 🔋 3. Versatile External Power Supply
 Designed for untethered rover projects, smart greenhouse automation, and standalone builds that can run far away from a laptop USB port.
 * **Wide Range DC Jack:** Accepts external battery packs or wall adapters ranging between **7V and 12V DC**.
 * **Smart Voltage Regulation:** An efficient onboard power management IC seamlessly drops high incoming battery voltages down to safe, steady working rails.
