@@ -11,7 +11,7 @@ The ION32 is a powerful processing board designed for high-speed execution and a
 ## Technical Specifications
 
 ### Microcontroller Specifications
-* Microcontroller: ION32 Architecture
+* Microcontroller: ION32
 * Operating Voltage: 3.3V / 5V dual-rail logic
 * Digital I/O Pins: Multi-function configurable pins
 * Port 22 Capabilities: Switchable between I2C communication and standard Digital I/O
