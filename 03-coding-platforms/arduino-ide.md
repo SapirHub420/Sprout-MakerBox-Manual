@@ -4,6 +4,6 @@ The Arduino Integrated Development Environment (IDE) is a text-based open-source
 
 For official software downloads, driver installation, board manager setups, and syntax guides, please refer to the official Arduino documentation:
 
-**[Arduino Software (IDE) Download Center](https://www.arduino.cc/en/software)**
+-> **[Arduino Software (IDE) Download Center](https://www.arduino.cc/en/software)**
 
-**[Arduino IDE 2.0 Official Documentation & Tutorials](https://docs.arduino.cc/software/ide-v2/)**
+-> **[Arduino IDE 2.0 Official Documentation & Tutorials](https://docs.arduino.cc/software/ide-v2/)**
