@@ -3,7 +3,7 @@
 The **Sound Sensor** is an input component that uses an onboard microphone to detect sound signals, ambient noise levels, and sudden audio spikes like claps or shouts.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Sound Sensor.png" alt="Sound Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Sound Sensor.png" alt="Sound Sensor" width="300">
 </p>
 
 ---

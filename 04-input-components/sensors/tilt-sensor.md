@@ -3,7 +3,7 @@
 The **Tilt Sensor** is a digital input component that detects changes in orientation or inclination. It allows your SprouT board to know if an object is upright or tilted past a specific angle.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Tilt Sensor.png" alt="Tilt Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Tilt Sensor.png" alt="Tilt Sensor" width="300">
 </p>
 
 ---

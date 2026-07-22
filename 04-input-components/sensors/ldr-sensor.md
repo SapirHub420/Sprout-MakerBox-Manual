@@ -3,7 +3,7 @@
 The **Light Sensor (LDR)** is an analog input component that measures surrounding light levels. It allows your SprouT board to respond to environmental brightness, darkness, or shadows.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Light Sensor.png" alt="Light Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Light Sensor.png" alt="Light Sensor" width="300">
 </p>
 
 ---

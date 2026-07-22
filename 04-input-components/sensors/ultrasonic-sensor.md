@@ -3,7 +3,7 @@
 The **Ultrasonic Sensor** is an input component that measures distance to an object by projecting high-frequency sound waves and timing their echo reflections.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Ultrasonic Sensor.png" alt="Ultrasonic Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Ultrasonic Sensor.png" alt="Ultrasonic Sensor" width="300">
 </p>
 
 ---

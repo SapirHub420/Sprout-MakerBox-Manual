@@ -3,7 +3,7 @@
 The **Capacitive Touch Sensor** is a digital input component that detects direct human physical touch or close skin contact without requiring physical mechanical force.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Capacitive Sensor.png" alt="Capacitive Touch Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Capacitive Sensor.png" alt="Capacitive Touch Sensor" width="300">
 </p>
 
 ---

@@ -3,7 +3,7 @@
 The **Vibration Sensor** is a digital input component that detects mechanical impacts, movement, shocks, or sudden vibrations.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Vibration Sensor.png" alt="Vibration Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Vibration Sensor.png" alt="Vibration Sensor" width="300">
 </p>
 
 ---

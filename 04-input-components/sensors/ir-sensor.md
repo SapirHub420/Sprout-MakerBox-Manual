@@ -3,7 +3,7 @@
 The **Infrared (IR) Sensor** is a digital input component that detects objects or obstacles in close proximity by emitting and sensing reflected infrared light.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Infrared Sensor.png" alt="Infrared Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Infrared Sensor.png" alt="Infrared Sensor" width="300">
 </p>
 
 ---

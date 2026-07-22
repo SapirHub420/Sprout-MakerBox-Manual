@@ -3,7 +3,7 @@
 The **DHT11 Sensor** is a digital input component that measures environmental ambient temperature and relative humidity simultaneously. It allows your SprouT board to monitor local climate conditions.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Humidity Sensor DHT11.png" alt="DHT11 Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Humidity Sensor DHT11.png" alt="DHT11 Sensor" width="300">
 </p>
 
 ---
