@@ -3,7 +3,7 @@
 The **Push Button** is a basic digital input component that detects physical tactile presses. It allows users to send manual trigger signals to your SprouT board to start actions, switch modes, or toggle components.
 
 <p align="center">
-  <img src="../images/sprout_makerbox_input_push_button.png" alt="Push Button" width="300">
+  <img src="../images/PNG - TOP - SprouT - SENANG - Push Button - Red.png" alt="Push Button" width="300">
 </p>
 
 ---

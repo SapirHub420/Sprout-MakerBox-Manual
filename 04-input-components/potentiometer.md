@@ -3,7 +3,7 @@
 The **Potentiometer** is a variable analog input component that measures rotational movement. By turning its knob, you manually adjust electrical resistance to send smooth, continuous value ranges to your SprouT board.
 
 <p align="center">
-  <img src="../images/sprout_makerbox_input_potentiometer.png" alt="Potentiometer" width="300">
+  <img src="../images/PNG - TOP - SprouT - SENANG - Potentiometer.png" alt="Potentiometer" width="300">
 </p>
 
 ---

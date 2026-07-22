@@ -3,7 +3,7 @@
 The **Bluetooth Module** is a wireless communication input/output component that allows your SprouT board to send and receive data wirelessly over short distances using Bluetooth protocols. It enables remote control via smartphones, tablets, or computers.
 
 <p align="center">
-  <img src="../images/sprout_makerbox_input_bluetooth_module.png" alt="Bluetooth Module" width="300">
+  <img src="../images/PNG - TOP - SprouT - SENANG - Bluetooth Transceiver MLT-BT05.png" alt="Bluetooth Module" width="300">
 </p>
 
 ---

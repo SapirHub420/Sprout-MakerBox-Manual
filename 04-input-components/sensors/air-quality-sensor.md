@@ -3,7 +3,7 @@
 The **Air Quality Sensor (Gas Sensor MP-135)** is an analog input component that detects ambient gas concentrations in the surrounding environment. It allows your SprouT board to monitor air pollution levels, smoke, and combustible gases.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - Gas Sensor MP-135 (Air Quality).png" alt="Air Quality Sensor" width="300">
+  <img src="../../images/PNG - TOP - SprouT - SENANG - Gas Sensor MP-135 (Air Quality).png" alt="Air Quality Sensor" width="300">
 </p>
 
 ---
