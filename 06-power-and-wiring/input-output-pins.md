@@ -8,8 +8,9 @@ Configuring pin direction in software dictates whether a pin receives electrical
 
 Every General Purpose Input/Output (GPIO) pin on your SprouT microcontroller must be assigned a functional direction in your control software:
 
-[ External World ] ---> (INPUT PIN)  ---> [ Microcontroller CPU ]
-[ External World ] <--- (OUTPUT PIN) <--- [ Microcontroller CPU ]
+<p align="center">
+  <img src="../images/inputoutput.png" width="300">
+</p>
 
 ---
 
