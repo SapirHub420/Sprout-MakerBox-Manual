@@ -3,8 +3,16 @@
 The **LCD Screen (1602 with I2C)** is a text display output component capable of showing up to 32 characters (16 characters across 2 lines). It allows your SprouT board to display sensor values, system states, and text messages.
 
 <p align="center">
-  <img src="../images/PNG - TOP - SprouT - SENANG - LCD I2C 1602 - Front.png" alt="LCD Screen I2C 1602" width="300">
+  <img src="../images/PNG - TOP - SprouT - SENANG - LCD I2C 1602 - Front.png" alt="LCD I2C 1602 - Front" width="350">
 </p>
+
+<p align="center"><b>Front</b></p>
+
+<p align="center">
+  <img src="../images/PNG - TOP - SprouT - SENANG - LCD I2C 1602 - Back.png" alt="LCD I2C 1602 - Back" width="350">
+</p>
+
+<p align="center"><b>Back</b></p>
 
 ---
 
