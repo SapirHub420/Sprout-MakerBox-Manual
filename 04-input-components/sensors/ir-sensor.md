@@ -26,7 +26,7 @@ The **Infrared (IR) Sensor** is a digital input component that detects objects o
 4. Plug the USB cable into your board and connect it to your computer.
 
 <p align="center">
-  <img src="../images/Wiring Diagram IR.png" width="600">
+  <img src="../../images/Wiring Diagram IR.png" width="600">
 </p
 
 > **Safety Tip:** Always plug in your hardware components before powering on your board via USB!
