@@ -21,7 +21,7 @@ The **Tone Buzzer** is an output component that produces sound frequencies and a
 
 1. Take your **SprouT Base Board** and plug in your central controller microchip.
 2. Connect one end of the modular cable to the **Tone Buzzer** module.
-3. Plug the other end of the cable into a **Digital / PWM Port** (e.g., Digital Pin 8) on your SprouT Base Board.
+3. Plug the other end of the cable into a **Digital / PWM Port** (e.g., Digital Pin 6) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
 
 <p align="center">
