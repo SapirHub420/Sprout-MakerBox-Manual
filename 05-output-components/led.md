@@ -23,7 +23,7 @@ The **Light Emitter (LED)** is a basic visual output component that emits light 
 
 1. Take your **SprouT Base Board** and plug in your central controller microchip.
 2. Connect one end of the modular cable to the **Light Emitter** module.
-3. Plug the other end of the cable into a **Digital / PWM Port** (e.g., Digital Pin 13) on your SprouT Base Board.
+3. Plug the other end of the cable into a **Digital / PWM Port** (e.g., Digital Pin 2) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
 
 <p align="center">
