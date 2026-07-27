@@ -26,6 +26,10 @@ The **Motor Driver** is an output power interface component that enables microco
 4. Connect an external 7–12V DC power source to power the motors safely.
 5. Plug the USB cable into your board and connect it to your computer.
 
+<p align="center">
+  <img src="../images/Wiring Diagram Motor Driver.png" width="600">
+</p
+
 > **Safety Tip:** Always connect external power to the driver board when operating heavy DC motor loads!
 
 ---

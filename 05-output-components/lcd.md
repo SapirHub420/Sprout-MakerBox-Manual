@@ -22,7 +22,6 @@ The **LCD Screen (1602 with I2C)** is a text display output component capable of
 * **Function:** Uses Liquid Crystal Display technology combined with an I2C backpack module to display text using only two communication lines (SDA and SCL).
 * **Signal Interface:** 
   * **I2C Protocol:** Transmits display coordinates, ASCII text, and backlight commands over the I2C bus.
-
 ---
 
 ## Connection Setup
@@ -31,6 +30,10 @@ The **LCD Screen (1602 with I2C)** is a text display output component capable of
 2. Connect one end of the modular cable to the **LCD Module**.
 3. Plug the other end of the cable into the designated **I2C Port** (SDA/SCL) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
+
+<p align="center">
+  <img src="../images/Wiring Diagram LCD.png" width="600">
+</p
 
 > **Safety Tip:** Always plug in your hardware components before powering on your board via USB!
 

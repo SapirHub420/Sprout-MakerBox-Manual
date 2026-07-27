@@ -24,6 +24,10 @@ The **Potentiometer** is a variable analog input component that measures rotatio
 3. Plug the other end of the cable into an **Analog Port** (e.g., Analog Pin A0) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
 
+<p align="center">
+  <img src="../images/Wiring Diagram Potentiometer.png" width="600">
+</p
+
 > **Safety Tip:** Always plug in your hardware components before powering on your board via USB!
 
 ---

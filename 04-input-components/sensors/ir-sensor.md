@@ -25,6 +25,10 @@ The **Infrared (IR) Sensor** is a digital input component that detects objects o
 3. Plug the other end of the cable into a **Digital Port** (e.g., Digital Pin 3) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
 
+<p align="center">
+  <img src="../images/Wiring Diagram IR.png" width="600">
+</p
+
 > **Safety Tip:** Always plug in your hardware components before powering on your board via USB!
 
 ---
