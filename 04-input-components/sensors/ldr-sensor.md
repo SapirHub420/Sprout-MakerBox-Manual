@@ -21,7 +21,7 @@ The **Light Sensor (LDR)** is an analog input component that measures surroundin
 
 1. Take your **SprouT Base Board** and plug in your central controller microchip.
 2. Connect one end of the modular cable to the **Light Sensor** module.
-3. Plug the other end of the cable into an **Analog Port** (e.g., Analog Pin A1) on your SprouT Base Board.
+3. Plug the other end of the cable into an **Analog Port** (e.g., Analog Pin A0) on your SprouT Base Board.
 4. Plug the USB cable into your board and connect it to your computer.
 
 <p align="center">
